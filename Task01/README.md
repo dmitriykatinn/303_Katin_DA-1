@@ -3,34 +3,37 @@
 18
 
 # movies.csv
+Количество строк:
+9742
+
 Поля:
 1. movieId
 2. title
 3. genres
-Количество строк:
-9742
 
 # occupation.txt
 Количество строк:
 21
 
 # ratings.csv
+Количество строк:
+18773
+
 Поля:
 1. userId
 2. movieId
 3. rating
 4. timestamp
-Количество строк:
-18773
 
 # tags.csv
+Количество строк:
+3683
+
 Поля:
 1. userId
 2. movieId
 3. tag
 4. timestamp
-Количество строк:
-3683
 
 # users.txt
 Количество строк:
