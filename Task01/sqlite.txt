@@ -1,0 +1,16 @@
+SQLite version 3.39.2
+ascii
+box
+csv
+column
+html
+insert
+json
+line
+list
+markdown
+qbox
+quote
+table
+tabs
+tcl
